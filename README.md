@@ -65,6 +65,12 @@ Django开发框架搭建请参考：使用pycharm创建django项目讲解.doc
 
 主要是进行bug修改，推荐算法测试。
 
+## 在线功能演示地址（服务器4月20号左右到期）：
+
+前台用户系统访问地址：[http://8.137.32.208:8080/NewsRecommendOnline/](http://8.137.32.208:8080/NewsRecommendOnline/)
+
+后台管理系统访问地址：[http://8.137.32.208:8080/NewsRecommendOnline/admin/login](http://8.137.32.208:8080/NewsRecommendOnline/admin/login)
+
 ## 七、系统功能展示
 ![输入图片说明](image.png)
 ![输入图片说明](image1.png)
